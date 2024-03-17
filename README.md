@@ -11,7 +11,7 @@ I'm a complete newbie to GitHub and eager to learn more. If any mistakes are mad
 # Contact
 
 - Mail: [r3vxax@proton.me](mailto:r3vxax@proton.me)
-- Blog(in Chinese): [♻️垃圾回收站](https://recyclebin.pages.dev)
+- ~~Blog(in Chinese): [♻️垃圾回收站](https://recyclebin.pages.dev)~~(offline for a while)
 - Reddit: [u/r3vxax](https://www.reddit.com/user/r3vxax)
 - Medium(English translation of some blogs): [r3vxax](https://medium.com/@r3vxax)
 
